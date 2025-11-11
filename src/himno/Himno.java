@@ -8,6 +8,7 @@ public class Himno {
          System.out.println("Otra estrofa del himno");
          System.out.println("Al gran pueblo Argentino salud y buen fin de semana");
          System.out.println("Coronados de gloria vivaaaaaaaaaamooooossss");
+         System.out.println("O juremos con gloria...");
     }
     
 }
